@@ -1,7 +1,5 @@
 **OUTPUT:**
-     ![Uploading image.png…]()
-
-
+     ![image](https://github.com/Codewithkarthi/QR-code-generator-using-react/assets/148317926/3a138e5e-82f8-4d46-afa1-a7f4278093c4)
 
 # Getting Started with Create React App
 
